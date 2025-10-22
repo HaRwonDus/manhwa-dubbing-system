@@ -5,6 +5,11 @@
 
 > An automated AI-powered pipeline for creating professional manhwa recap videos with emotional voice-over narration and background music for YouTube content creation.
 
+---
+
+This README.md file was generated with Perplexity Pro and Research mode, Best Model:
+https://www.perplexity.ai/search/write-a-readme-and-docs-specif-wmW0601GTjCJfr6fpGftug?preview=1#0
+
 ## 🎯 Project Overview
 
 This AI engineering project automates the entire process of creating manhwa recap videos by extracting text from manhwa chapters, generating intelligent summaries, cropping panels for video sequences, synthesizing emotional voice narration, and assembling everything into a polished 2-3 hour YouTube video.
@@ -494,12 +499,6 @@ Automated processing workflow is available in `.github/workflows/process_video.y
 - [ElevenLabs](https://elevenlabs.io/) - Text-to-speech
 - [MoviePy](https://zulko.github.io/moviepy/) - Video editing
 - [OpenCV](https://opencv.org/) - Computer vision
-
-## 📧 Contact & Support
-
-- **Issues:** [GitHub Issues](https://github.com/yourusername/manhwa-dubbing-ai/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/manhwa-dubbing-ai/discussions)
-- **Email:** your.email@example.com
 
 ## 🗺️ Roadmap
 
