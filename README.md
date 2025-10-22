@@ -10,10 +10,10 @@
 This README.md file was generated with Perplexity Pro and Research mode, Best Model:
 https://www.perplexity.ai/search/write-a-readme-and-docs-specif-wmW0601GTjCJfr6fpGftug?preview=1#0
 
-/docs:
-- README.md
-- ARCHITECTURE.md
-- COMPONENTS-SPEC.md
+Documentations & Specification (/docs):
+- README.md [click me.](README.md)
+- ARCHITECTURE.md [click me.](ARCHITECTURE.md)
+- COMPONENTS-SPEC.md [click me.](COMPONENTS-SPEC.md)
 
 ---
 
