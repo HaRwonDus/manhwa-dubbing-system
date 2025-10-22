@@ -10,6 +10,15 @@
 This README.md file was generated with Perplexity Pro and Research mode, Best Model:
 https://www.perplexity.ai/search/write-a-readme-and-docs-specif-wmW0601GTjCJfr6fpGftug?preview=1#0
 
+/docs:
+- README.md
+- ARCHITECTURE.md
+- COMPONENTS-SPEC.md
+
+---
+
+![AI Manhwa Dubbing System - Complete Pipeline Architecture](ai_manhwa_pipeline.png)
+
 ## 🎯 Project Overview
 
 This AI engineering project automates the entire process of creating manhwa recap videos by extracting text from manhwa chapters, generating intelligent summaries, cropping panels for video sequences, synthesizing emotional voice narration, and assembling everything into a polished 2-3 hour YouTube video.
